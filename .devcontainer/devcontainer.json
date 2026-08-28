@@ -1,0 +1,6 @@
+{
+  "name": "Scala sbt",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}

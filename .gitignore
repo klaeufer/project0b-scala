@@ -6,6 +6,7 @@ project/project/
 # IDE
 .idea/
 .bsp/
+.bloop/
 .metals/
 .vscode/
 
